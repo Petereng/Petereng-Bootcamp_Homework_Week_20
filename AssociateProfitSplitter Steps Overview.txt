@@ -1,0 +1,22 @@
+
+Associate Profit Splitter steps
+
+    // employee_one (ganache test account 3) 0xFb520D62539f3ed0752D07bBe4537Bc2558a03bF
+    // employee_two (ganache test account 4) 0xBf86d3ab43BcEef11DD9f742bA6Cf78e68405cA2
+    // employee_three (ganache test account 5) 0xa99EEbBe3cb3691458908925D33cc3CE06A20716
+	
+	// Successfully deployed and transacted 9-Oct-2021
+	
+	
+	Open remix, metamask (to local host 8545) and ganache for test accounts 1 (from me),3 (to employee 1),4 (to employee 2) and 5 (to employee 3)
+	
+	
+	Step 1 - code and compile on soliidty 0.5.5+commit.47a718f
+	
+	Step 2 - set to injected web3 on local host 8545
+	
+	Step 3 - deploy and run
+	
+	Step 4 - add addresses and transact (check ganache balances and metamask)
+	
+	
